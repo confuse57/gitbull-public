@@ -44,7 +44,7 @@ It's not affiliated with GitHub, it's not real money, and it's not serious — i
 
 ---
 
-## 🚀 Built with Claude Code in ~8 Days
+## 🚀 Built with Claude Code in ~4 Days
 
 GitBull went from an idea in a notes app to a live, working product in about a week — solo, with Claude Code as the entire engineering team.
 
